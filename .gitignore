@@ -1,0 +1,6 @@
+SKYCUT-Plotter.apk
+SKYCUT-Plotter/
+**/__pycache__/
+venv/
+assets/*
+form-response.md
