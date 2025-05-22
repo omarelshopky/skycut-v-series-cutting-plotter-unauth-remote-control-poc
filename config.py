@@ -5,6 +5,20 @@
 # Full Write-up: https://medium.com/@omarelshopky/wireless-weapons-turning-skycut-plotters-into-physical-dangers-9f29e0cd357a
 # Advisory: https://github.com/omarelshopky/skycut-v-series-cutting-plotter-unauth-remote-control-poc
 
+DEFAULT_PLOT_WIDTH = 10000
+DEFAULT_PLOT_HEIGHT = 7000
+
+DEFAULT_FONT_SIZE = 300
+
+COMMON_FONT_PATHS = [
+    "fonts/Supercharge.ttf",
+    "fonts/Montserrat.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    "/System/Library/Fonts/Helvetica.ttc",
+    "/Library/Fonts/Arial.ttf",
+    "C:\\Windows\\Fonts\\arial.ttf"
+]
+
 DEFAULT_WIFI_NAME_NIDDLE = "CUTTER"
 DEFAULT_WIFI_PASSWORD = "12345678"
 
