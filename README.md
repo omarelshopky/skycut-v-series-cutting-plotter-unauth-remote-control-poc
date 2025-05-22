@@ -6,7 +6,11 @@ Discovered by Omar Elshopky, Jan 2024.
 
 Insufficient Authentication vulnerability in the Wi-Fi interface in Skycut V Series Cutting Plotter Firmware v22.0223 and Hardware v7.1202K allows remote attackers to execute arbitrary control commands leading to physical harm and denial of operations via GCODE instructions sent to an unprotected TCP port 8080.
 
-> [PoC Video](https://youtu.be/ajSA0nFml2A)
+https://github.com/user-attachments/assets/b7bc4240-25eb-4e71-b5f7-ef23006dc1be
+> View on YouTube via https://youtu.be/ajSA0nFml2A
+
+<br>
+
 
 | Field | Content |
 |-------|---------|
